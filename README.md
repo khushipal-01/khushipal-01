@@ -1,5 +1,45 @@
 # 💫 About Me:
-👩‍💻 About Me<br><br>🔭 I’m currently working on<br><br>Building full-stack web applications<br><br>Strengthening my frontend skills with real-world projects<br><br>Learning backend development and integrating APIs<br><br>Exploring AI integration in web applications<br><br>👯 I’m looking to collaborate on<br><br>Full-stack development projects<br><br>AI-powered web applications<br><br>Open-source projects related to web or AI<br><br>🤝 I’m looking for help with<br><br>Backend scalability and architecture<br><br>AI/ML integration in full-stack projects<br><br>Industry best practices and job-ready skills<br><br>🌱 I’m currently learning<br><br>Backend technologies (Node.js, Express, Databases)<br><br>Full-stack development workflows<br><br>AI fundamentals and practical use cases<br><br>System design basics<br><br>💬 Ask me about<br><br>Frontend development (HTML, CSS, JavaScript, React)<br><br>Full-stack project structure<br><br>Git, GitHub, and deployment basics<br><br>Transitioning from frontend to full-stack<br><br>⚡ Fun fact<br><br>My goal is to build intelligent, scalable applications and grow as a Full-Stack + AI Developer 🚀
+👩‍💻 About Me
+
+🚀 Aspiring Full-Stack Developer with AI focus, currently building modern web applications and actively seeking job opportunities.
+
+🔭 Currently Working On
+
+Full-stack web applications
+
+Backend development & API integration
+
+Adding AI features to real-world projects
+
+🌱 Currently Learning
+
+Node.js, Express & Databases
+
+React & advanced JavaScript
+
+AI fundamentals and practical AI integration
+
+👯 Open to Collaborate On
+
+Full-stack & AI-powered projects
+
+Open-source web applications
+
+💬 Ask Me About
+
+Frontend (HTML, CSS, JavaScript, React)
+
+Full-stack project structure
+
+Git, GitHub & deployment
+
+⚡ Fun Fact
+
+I love turning ideas into smart, scalable, and user-friendly applications 🤖✨
+
+💼 Career Goal
+
+To grow as a Full-Stack + AI Developer and contribute to impactful, production-ready products.
 
 
 ## 🌐 Socials:
